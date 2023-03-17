@@ -1,7 +1,7 @@
 # 😈️ Spammer 😈️ 
 
 
-- 📌️ This is Whatsapp spaming tol
+- 📌️ This is Whatsapp spaming tool
 
 - 📌️ Only Work in Kali Linux,Windows and Android.
 
@@ -12,7 +12,7 @@
 
 - 📌️ $ sudo apt upgrade
 
-- 📌️ $ git clone 
+- 📌️ $ git clone https://github.com/MrDTZ/Spammer.git
 
 - 📌️ $ cd Spammer
 
@@ -34,7 +34,7 @@
 
 - 📌️ $ apt install python3 -y
 
-- 📌️ $ git clone 
+- 📌️ $ git clone https://github.com/MrDTZ/Spammer.git
 
 - 📌️ $ cd Spammer
 
