@@ -24,7 +24,7 @@ def menu():
     if option == "1":
       print(Fore.BLUE + "[+] Spam is started in 15 second !")
       print("")
-      print(Fore.RED + "[+] Open Whatsapp Web and Open Chat you wnat to spam !")
+      print(Fore.RED + "[+] Open Whatsapp Web and Open Chat you want to spam !")
       print("")
       print(Fore.YELLOW + "[+] Spam Credits -:", Fore.BLUE + "Lasal" )
       print("")
@@ -39,7 +39,7 @@ def menu():
     if option == "2":
       print(Fore.BLUE + "[+] Spam is started in 15 second !")
       print("")
-      print(Fore.RED + "[+] Open Whatsapp Web and Open Chat you wnat to spam !")
+      print(Fore.RED + "[+] Open Whatsapp Web and Open Chat you want to spam !")
       print("")
       print(Fore.YELLOW + "[+] Spam Credits -:", Fore.BLUE + "Lasal" )
       print("")
@@ -55,7 +55,7 @@ def menu():
     if option == "3":
       print(Fore.BLUE + "[+] Spam is started in 15 second !")
       print("")
-      print(Fore.RED + "[+] Open Whatsapp Web and Open Chat you wnat to spam !")
+      print(Fore.RED + "[+] Open Whatsapp Web and Open Chat you want to spam !")
       print("")
       print(Fore.YELLOW + "[+] Spam Credits -:", Fore.BLUE + "B.S.Prabasha" )
       print("")
@@ -70,7 +70,7 @@ def menu():
     if option == "4":
       print(Fore.BLUE + "[+] Spam is started in 15 second !")
       print("")
-      print(Fore.RED + "[+] Open Whatsapp Web and Open Chat you wnat to spam !")
+      print(Fore.RED + "[+] Open Whatsapp Web and Open Chat you want to spam !")
       print("")
       print(Fore.YELLOW + "[+] Spam Credits -:", Fore.BLUE + "B.S.Prabasha" )
       print("")
