@@ -22,7 +22,7 @@
 
 - 📌️ $ python3 main.py
 
-- ⚠️ Select the Spam in menu after Open Whatsapp Web and Open Chat you wnat to spam !.
+- ⚠️ Select the Spam in menu after Open Whatsapp Web and Open Chat you want to spam !.
 
 # 📥️ Install For Termux (Android)
 
@@ -44,7 +44,7 @@
 
 - 📌️ $ python3 main.py
 
-- ⚠️ Select the Spam in menu after Open Whatsapp app and Open Chat you wnat to spam !.
+- ⚠️ Select the Spam in menu after Open Whatsapp app and Open Chat you want to spam !.
 
 
 # credits 
